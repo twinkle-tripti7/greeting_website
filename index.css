@@ -1,0 +1,20 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7d6e3; /* Set background color for the entire page */
+}
+
+.box{
+  width: 500px; /* Set the width of the div */
+            height: 100px; /* Set the height of the div */
+            background-color: rgb(198, 243, 246); /* Add your preferred background color */
+            color: #dc3f3f; /* Set the text color */
+            padding: 20px;
+            text-align: center;
+            box-sizing: border-box;
+            border-radius: 5px;
+}
